@@ -51,7 +51,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Practices",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
