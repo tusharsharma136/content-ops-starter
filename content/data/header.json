@@ -43,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Practices",
+                    "label": "",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
